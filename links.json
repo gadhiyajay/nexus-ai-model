@@ -1,0 +1,25 @@
+{
+  "links":
+  {
+       "google": "https://www.google.com",
+    "youTube": "https://www.youtube.com",
+    "facebook": "https://www.facebook.com",
+    "twitter": "https://twitter.com",
+    "instagram": "https://www.instagram.com",
+    "amazon": "https://www.amazon.com",
+    "wikipedia": "https://www.wikipedia.org",
+    "reddit": "https://www.reddit.com",
+    "linkedin": "https://www.linkedin.com",
+    "netflix": "https://www.netflix.com",
+    "github": "https://github.com",
+    "stack overflow": "https://stackoverflow.com",
+    "medium": "https://medium.com",
+    "quora": "https://www.quora.com",
+    "dropbox": "https://www.dropbox.com",
+    "etsy": "https://www.etsy.com",
+    "ebay": "https://www.ebay.com",
+    "twitch1": "https://www.twitch.tv",
+    "slack": "https://slack.com",
+    "imgur": "https://imgur.com"
+  }
+}
